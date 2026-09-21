@@ -13,3 +13,17 @@ Namespaces: Logical containers used to organize code and prevent class name conf
 Main Method: The primary entry point where execution begins:
 
 https://github.com/jimcaale8650/Week-one-project/blob/63ca7ae7387c3fd21fd0f95173acf01003105bed/Screenshot%202026-09-21%20131931.png
+
+
+https://github.com/jimcaale8650/Week-one-project/blob/bc8f6d8ef0d9676ff2bb57f2c9e15907d41797af/code668.cs
+
+Data Types & I/O Operations
+Value Types: Stored directly on the stack memory (e.g., int, double, bool, char).
+
+Reference Types: Store references to data located on the heap memory (e.g., string, class, arrays).
+
+Console Operations:
+
+Console.WriteLine() — Prints text output to the terminal.
+
+Console.ReadLine() — Captures user string input from the terminal.
