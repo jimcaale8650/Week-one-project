@@ -11,3 +11,5 @@ CIL & JIT Compilation: C# code is first compiled into CIL (Common Intermediate L
 Namespaces: Logical containers used to organize code and prevent class name conflicts (e.g., namespace Week1Practice).
 
 Main Method: The primary entry point where execution begins:
+
+https://github.com/jimcaale8650/Week-one-project/blob/63ca7ae7387c3fd21fd0f95173acf01003105bed/Screenshot%202026-09-21%20131931.png
